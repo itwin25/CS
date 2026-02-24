@@ -87,8 +87,8 @@ while-study/
 
 ## 🚀 Commit & PR 규칙
 
-- **브랜치 이름**: `feature/주제명`  
-  예) `feature/OS-process-thread`
+- **브랜치 이름**: `아이디/번호+주제명`  
+  예) `itwin25/01-OS-process-thread`
 
 - **파일 포맷**: `.md` (마크다운)
 
@@ -105,42 +105,42 @@ while-study/
 ### 01. Computer Science 기초 (공통)
 
 - [ ] **Operating System (운영체제)**
-  - [ ] 프로세스와 스레드
-  - [ ] 프로세스 vs 프로그램
-  - [ ] 메모리 관리
-  - [ ] 컨텍스트 스위칭
-  - [ ] 데드락과 레이스 컨디션
-  - [ ] 가상 메모리
-  - [ ] 인터럽트와 시스템 콜
-  - [ ] 이중 모드 (User/Kernel Mode)
-  - [ ] DMA
+  - [ ] 01. 프로세스와 스레드
+  - [ ] 02. 프로세스 vs 프로그램
+  - [ ] 03. 메모리 관리
+  - [ ] 04. 컨텍스트 스위칭
+  - [ ] 05. 데드락과 레이스 컨디션
+  - [ ] 06. 가상 메모리
+  - [ ] 07. 인터럽트와 시스템 콜
+  - [ ] 08. 이중 모드 (User/Kernel Mode)
+  - [ ] 09. DMA
   - [ ] QnA 복습 완료
 
 - [ ] **Network (네트워크)**
-  - [ ] OSI 7계층
-  - [ ] TCP/IP
-  - [ ] HTTP/HTTPS
-  - [ ] HTTP 메소드와 HTTP/2
-  - [ ] 흐름제어와 혼잡제어
-  - [ ] DNS 동작 원리
+  - [ ] 01. OSI 7계층
+  - [ ] 02. TCP/IP
+  - [ ] 03. HTTP/HTTPS
+  - [ ] 04. HTTP 메소드와 HTTP/2
+  - [ ] 05. 흐름제어와 혼잡제어
+  - [ ] 06. DNS 동작 원리
   - [ ] QnA 복습 완료
 
 - [ ] **Data Structure (자료구조)**
-  - [ ] 배열과 링크드 리스트
-  - [ ] 스택과 큐
-  - [ ] 트리와 그래프
-  - [ ] 해시 테이블과 충돌 해결
-  - [ ] Set 종류 (HashSet, TreeSet, LinkedHashSet)
-  - [ ] AVL 트리
-  - [ ] DFS vs BFS
+  - [ ] 01. 배열과 링크드 리스트
+  - [ ] 02. 스택과 큐
+  - [ ] 03. 트리와 그래프
+  - [ ] 04. 해시 테이블과 충돌 해결
+  - [ ] 05. Set 종류 (HashSet, TreeSet, LinkedHashSet)
+  - [ ] 06. AVL 트리
+  - [ ] 07. DFS vs BFS
   - [ ] QnA 복습 완료
 
 - [ ] **Algorithm (알고리즘)**
-  - [ ] 시간/공간 복잡도
-  - [ ] 정렬 알고리즘
-  - [ ] 탐색 알고리즘
-  - [ ] 코딩 문제 (배열 조작, 유전 알고리즘)
-  - [ ] 피보나치 구현 방법 비교
+  - [ ] 01. 시간/공간 복잡도
+  - [ ] 02. 정렬 알고리즘
+  - [ ] 03. 탐색 알고리즘
+  - [ ] 04. 코딩 문제 (배열 조작, 유전 알고리즘)
+  - [ ] 05. 피보나치 구현 방법 비교
   - [ ] QnA 복습 완료
 
 ---
@@ -148,56 +148,56 @@ while-study/
 ### 02. Backend Engineering (백엔드)
 
 - [ ] **Java Fundamentals**
-  - [ ] OOP와 SOLID 원칙
-  - [ ] 메모리 모델
-  - [ ] Garbage Collection
-  - [ ] Call by Value/Reference
-  - [ ] Java 21 Virtual Threads
-  - [ ] 동기/비동기와 Thread-safe
-  - [ ] Exception vs Error
-  - [ ] HashTable vs HashMap
-  - [ ] JVM 구조와 클래스 로더
-  - [ ] 제네릭(Generics)
-  - [ ] 오버라이딩 vs 오버로딩
-  - [ ] static 키워드
-  - [ ] 접근 제어자
-  - [ ] Java 8 주요 기능
-  - [ ] try-with-resource
-  - [ ] 직렬화(Serialization)
+  - [ ] 01. OOP와 SOLID 원칙
+  - [ ] 02. 메모리 모델
+  - [ ] 03. Garbage Collection
+  - [ ] 04. Call by Value/Reference
+  - [ ] 05. Java 21 Virtual Threads
+  - [ ] 06. 동기/비동기와 Thread-safe
+  - [ ] 07. Exception vs Error
+  - [ ] 08. HashTable vs HashMap
+  - [ ] 09. JVM 구조와 클래스 로더
+  - [ ] 10. 제네릭(Generics)
+  - [ ] 11. 오버라이딩 vs 오버로딩
+  - [ ] 12. static 키워드
+  - [ ] 13. 접근 제어자
+  - [ ] 14. Java 8 주요 기능
+  - [ ] 15. try-with-resource
+  - [ ] 16. 직렬화(Serialization)
   - [ ] QnA 복습 완료
 
 - [ ] **Spring Framework**
-  - [ ] IoC/DI
-  - [ ] AOP와 Proxy
-  - [ ] Spring MVC 흐름
-  - [ ] Bean 생명주기
-  - [ ] Spring Boot 자동 설정
-  - [ ] @Transactional 주의사항
-  - [ ] Bean Scope
-  - [ ] @Autowired 동작 원리
-  - [ ] DispatcherServlet
-  - [ ] Filter vs Interceptor
-  - [ ] 생성자 주입
+  - [ ] 01. IoC/DI
+  - [ ] 02. AOP와 Proxy
+  - [ ] 03. Spring MVC 흐름
+  - [ ] 04. Bean 생명주기
+  - [ ] 05. Spring Boot 자동 설정
+  - [ ] 06. @Transactional 주의사항
+  - [ ] 07. Bean Scope
+  - [ ] 08. @Autowired 동작 원리
+  - [ ] 09. DispatcherServlet
+  - [ ] 10. Filter vs Interceptor
+  - [ ] 11. 생성자 주입
   - [ ] QnA 복습 완료
 
 - [ ] **Database**
-  - [ ] 관계형 DB 구성요소와 Key 종류
-  - [ ] JPA/ORM 개념
-  - [ ] 영속성 컨텍스트
-  - [ ] N+1 문제
-  - [ ] 트랜잭션 격리 수준과 ACID
-  - [ ] 트랜잭션 전파(Propagation)
-  - [ ] JPA 프록시와 지연 로딩
-  - [ ] 인덱싱과 B-Tree
-  - [ ] 정규화 (1NF, 2NF, 3NF)
-  - [ ] DDL/DML/DCL
-  - [ ] NoSQL
+  - [ ] 01. 관계형 DB 구성요소와 Key 종류
+  - [ ] 02. JPA/ORM 개념
+  - [ ] 03. 영속성 컨텍스트
+  - [ ] 04. N+1 문제
+  - [ ] 05. 트랜잭션 격리 수준과 ACID
+  - [ ] 06. 트랜잭션 전파(Propagation)
+  - [ ] 07. JPA 프록시와 지연 로딩
+  - [ ] 08. 인덱싱과 B-Tree
+  - [ ] 09. 정규화 (1NF, 2NF, 3NF)
+  - [ ] 10. DDL/DML/DCL
+  - [ ] 11. NoSQL
   - [ ] QnA 복습 완료
 
 - [ ] **Authentication (인증/인가)**
-  - [ ] Session 기반 인증
-  - [ ] JWT
-  - [ ] OAuth 2.0
+  - [ ] 01. Session 기반 인증
+  - [ ] 02. JWT
+  - [ ] 03. OAuth 2.0
   - [ ] QnA 복습 완료
 
 ---
@@ -205,34 +205,34 @@ while-study/
 ### 03. Frontend Engineering (프론트엔드)
 
 - [ ] **Browser Fundamentals**
-  - [ ] URL에서 렌더링까지
-  - [ ] Critical Rendering Path
-  - [ ] DOM/CSSOM
-  - [ ] Reflow/Repaint
-  - [ ] 합성과 GPU
+  - [ ] 01. URL에서 렌더링까지
+  - [ ] 02. Critical Rendering Path
+  - [ ] 03. DOM/CSSOM
+  - [ ] 04. Reflow/Repaint
+  - [ ] 05. 합성과 GPU
   - [ ] QnA 복습 완료
 
 - [ ] **JavaScript Deep Dive**
-  - [ ] 실행 컨텍스트
-  - [ ] 호이스팅과 TDZ
-  - [ ] 클로저
-  - [ ] 이벤트 루프
-  - [ ] Microtask/Macrotask
-  - [ ] Promise/async-await
+  - [ ] 01. 실행 컨텍스트
+  - [ ] 02. 호이스팅과 TDZ
+  - [ ] 03. 클로저
+  - [ ] 04. 이벤트 루프
+  - [ ] 05. Microtask/Macrotask
+  - [ ] 06. Promise/async-await
   - [ ] QnA 복습 완료
 
 - [ ] **React Architecture**
-  - [ ] Virtual DOM
-  - [ ] 재조정(Reconciliation)
-  - [ ] Fiber 아키텍처
-  - [ ] Hooks 내부 동작
-  - [ ] useEffect vs useLayoutEffect
+  - [ ] 01. Virtual DOM
+  - [ ] 02. 재조정(Reconciliation)
+  - [ ] 03. Fiber 아키텍처
+  - [ ] 04. Hooks 내부 동작
+  - [ ] 05. useEffect vs useLayoutEffect
   - [ ] QnA 복습 완료
 
 - [ ] **Next.js Rendering**
-  - [ ] CSR/SSR/SSG/ISR
-  - [ ] Hydration
-  - [ ] React Server Components
+  - [ ] 01. CSR/SSR/SSG/ISR
+  - [ ] 02. Hydration
+  - [ ] 03. React Server Components
   - [ ] QnA 복습 완료
 
 ---
@@ -240,25 +240,25 @@ while-study/
 ### 04. System Design (시스템 설계)
 
 - [ ] **Caching (캐싱)**
-  - [ ] 캐싱 전략
-  - [ ] CDN
+  - [ ] 01. 캐싱 전략
+  - [ ] 02. CDN
   - [ ] QnA 복습 완료
 
 - [ ] **Scalability (확장성)**
-  - [ ] CAP 정리
-  - [ ] 로드밸런싱
-  - [ ] 샤딩
+  - [ ] 01. CAP 정리
+  - [ ] 02. 로드밸런싱
+  - [ ] 03. 샤딩
   - [ ] QnA 복습 완료
 
 - [ ] **Performance (성능)**
-  - [ ] 성능 최적화 기법
-  - [ ] 병목 지점 분석
+  - [ ] 01. 성능 최적화 기법
+  - [ ] 02. 병목 지점 분석
   - [ ] QnA 복습 완료
 
 - [ ] **Infrastructure (인프라)**
-  - [ ] 로드 밸런서 (L4/L7)
-  - [ ] 무중단 배포 (Rolling, Blue/Green, Canary)
-  - [ ] 대용량 트래픽 대응
+  - [ ] 01. 로드 밸런서 (L4/L7)
+  - [ ] 02. 무중단 배포 (Rolling, Blue/Green, Canary)
+  - [ ] 03. 대용량 트래픽 대응
   - [ ] QnA 복습 완료
 
 ---
@@ -266,71 +266,71 @@ while-study/
 ### 05. AI Engineering (AI 엔지니어링)
 
 - [ ] **RAG Pipeline**
-  - [ ] 청킹 전략
-  - [ ] 임베딩
-  - [ ] 검색 최적화
+  - [ ] 01. 청킹 전략
+  - [ ] 02. 임베딩
+  - [ ] 03. 검색 최적화
   - [ ] QnA 복습 완료
 
 - [ ] **Vector Database**
-  - [ ] HNSW, IVF 알고리즘
-  - [ ] 벡터 DB 선택
+  - [ ] 01. HNSW, IVF 알고리즘
+  - [ ] 02. 벡터 DB 선택
   - [ ] QnA 복습 완료
 
 - [ ] **LLM Integration**
-  - [ ] 프롬프트 엔지니어링
-  - [ ] 환각 완화 기법
+  - [ ] 01. 프롬프트 엔지니어링
+  - [ ] 02. 환각 완화 기법
   - [ ] QnA 복습 완료
 
 ---
 
 ### 06. Design Patterns (디자인 패턴)
 
-- [ ] 생성 패턴 (Singleton, Factory, Builder)
-- [ ] 구조 패턴 (Adapter, Decorator, Proxy, Facade, Bridge)
-- [ ] 행동 패턴 (Observer, Strategy, Template Method)
-- [ ] 아키텍처 패턴 (MVC, MVP, MVVM)
+- [ ] 01. 생성 패턴 (Singleton, Factory, Builder)
+- [ ] 02. 구조 패턴 (Adapter, Decorator, Proxy, Facade, Bridge)
+- [ ] 03. 행동 패턴 (Observer, Strategy, Template Method)
+- [ ] 04. 아키텍처 패턴 (MVC, MVP, MVVM)
 - [ ] QnA 복습 완료
 
 ---
 
 ### 07. Security (보안)
 
-- [ ] OWASP Top 10
-- [ ] XSS, CSRF, SQL Injection
-- [ ] HTTPS/TLS
-- [ ] 암호화 (대칭키/비대칭키)
-- [ ] 해시 함수와 비밀번호 저장
+- [ ] 01. OWASP Top 10
+- [ ] 02. XSS, CSRF, SQL Injection
+- [ ] 03. HTTPS/TLS
+- [ ] 04. 암호화 (대칭키/비대칭키)
+- [ ] 05. 해시 함수와 비밀번호 저장
 - [ ] QnA 복습 완료
 
 ---
 
 ### 08. API Design (API 설계)
 
-- [ ] REST API 설계 원칙
-- [ ] GraphQL 기초
-- [ ] API 버저닝
+- [ ] 01. REST API 설계 원칙
+- [ ] 02. GraphQL 기초
+- [ ] 03. API 버저닝
 - [ ] QnA 복습 완료
 
 ---
 
 ### 09. Software Engineering (소프트웨어 공학)
 
-- [ ] 애자일/스크럼
-- [ ] 코드 리뷰
-- [ ] 테스트 전략 (단위/통합/시스템/인수)
-- [ ] 테스트 코드 작성 이유
-- [ ] 테스트 커버리지
-- [ ] KISS, YAGNI, DRY 원칙
-- [ ] 브룩스의 법칙
+- [ ] 01. 애자일/스크럼
+- [ ] 02. 코드 리뷰
+- [ ] 03. 테스트 전략 (단위/통합/시스템/인수)
+- [ ] 04. 테스트 코드 작성 이유
+- [ ] 05. 테스트 커버리지
+- [ ] 06. KISS, YAGNI, DRY 원칙
+- [ ] 07. 브룩스의 법칙
 - [ ] QnA 복습 완료
 
 ---
 
 ### 10. Version Control (버전 관리)
 
-- [ ] Git 기본 명령어
-- [ ] 브랜칭 전략
-- [ ] Git Flow vs GitHub Flow
+- [ ] 01. Git 기본 명령어
+- [ ] 02. 브랜칭 전략
+- [ ] 03. Git Flow vs GitHub Flow
 - [ ] QnA 복습 완료
 
 ---
@@ -338,58 +338,58 @@ while-study/
 ### 11. Cloud Engineering (클라우드 엔지니어링)
 
 - [ ] **Cloud Fundamentals (클라우드 기초)**
-  - [ ] IaaS/PaaS/SaaS
-  - [ ] 가상화와 Hypervisor (Type 1/Type 2)
-  - [ ] VM vs Container
+  - [ ] 01. IaaS/PaaS/SaaS
+  - [ ] 02. 가상화와 Hypervisor (Type 1/Type 2)
+  - [ ] 03. VM vs Container
   - [ ] QnA 복습 완료
 
 - [ ] **Containerization (컨테이너화)**
   - [ ] **Docker**
-    - [ ] 컨테이너 기본 개념
-    - [ ] 이미지와 레이어
-    - [ ] Dockerfile 작성
-    - [ ] Docker Compose
-    - [ ] 네트워킹
+    - [ ] 01. 컨테이너 기본 개념
+    - [ ] 02. 이미지와 레이어
+    - [ ] 03. Dockerfile 작성
+    - [ ] 04. Docker Compose
+    - [ ] 05. 네트워킹
     - [ ] QnA 복습 완료
 
 - [ ] **AWS**
-  - [ ] VPC/Subnet 설계
-  - [ ] Security Group vs NACL
-  - [ ] EC2 Auto Scaling
-  - [ ] Lambda
-  - [ ] S3 정책
+  - [ ] 01. VPC/Subnet 설계
+  - [ ] 02. Security Group vs NACL
+  - [ ] 03. EC2 Auto Scaling
+  - [ ] 04. Lambda
+  - [ ] 05. S3 정책
   - [ ] QnA 복습 완료
 
 - [ ] **Kubernetes**
-  - [ ] Pod, Service, Deployment
-  - [ ] StatefulSet vs Deployment
-  - [ ] ConfigMap/Secret
-  - [ ] Ingress
-  - [ ] 트러블슈팅
+  - [ ] 01. Pod, Service, Deployment
+  - [ ] 02. StatefulSet vs Deployment
+  - [ ] 03. ConfigMap/Secret
+  - [ ] 04. Ingress
+  - [ ] 05. 트러블슈팅
   - [ ] QnA 복습 완료
 
 - [ ] **DevOps & CI/CD**
-  - [ ] CI/CD 개념
-  - [ ] 배포 전략 (Blue-Green, Canary, Rolling)
-  - [ ] GitHub Actions/Jenkins
-  - [ ] GitOps (ArgoCD)
-  - [ ] IaC (Terraform)
+  - [ ] 01. CI/CD 개념
+  - [ ] 02. 배포 전략 (Blue-Green, Canary, Rolling)
+  - [ ] 03. GitHub Actions/Jenkins
+  - [ ] 04. GitOps (ArgoCD)
+  - [ ] 05. IaC (Terraform)
   - [ ] QnA 복습 완료
 
 - [ ] **Monitoring & Observability**
-  - [ ] Logs, Metrics, Traces
-  - [ ] Prometheus/Grafana
-  - [ ] 로그 수집 (ELK, Loki)
-  - [ ] SLI/SLO/SLA
-  - [ ] 알림 설계
+  - [ ] 01. Logs, Metrics, Traces
+  - [ ] 02. Prometheus/Grafana
+  - [ ] 03. 로그 수집 (ELK, Loki)
+  - [ ] 04. SLI/SLO/SLA
+  - [ ] 05. 알림 설계
   - [ ] QnA 복습 완료
 
 - [ ] **Linux & Networking**
-  - [ ] 파일 권한 (chmod)
-  - [ ] 프로세스 관리 (ps, top, kill)
-  - [ ] 네트워크 명령어 (netstat, curl, tcpdump)
-  - [ ] SSH 키 인증
-  - [ ] 방화벽 (iptables, firewalld)
+  - [ ] 01. 파일 권한 (chmod)
+  - [ ] 02. 프로세스 관리 (ps, top, kill)
+  - [ ] 03. 네트워크 명령어 (netstat, curl, tcpdump)
+  - [ ] 04. SSH 키 인증
+  - [ ] 05. 방화벽 (iptables, firewalld)
   - [ ] QnA 복습 완료
 
 - [ ] **Practical Scenarios (실전 시나리오)**
