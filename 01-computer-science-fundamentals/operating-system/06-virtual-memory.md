@@ -1,4 +1,4 @@
-# 가상 메모리(Virtual Memory) 핵심 요약
+# 가상 메모리(Virtual Memory)
 
 ## 1. 개요 및 정의
 
